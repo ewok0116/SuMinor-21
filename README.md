@@ -1,0 +1,1 @@
+The essential prerequisites for running this application include MongoDB, Docker, and Postman. The database is established in MongoDB through Docker, and subsequently, it is transmitted to the frontend via Postman to retrieve the course information and the methods.
